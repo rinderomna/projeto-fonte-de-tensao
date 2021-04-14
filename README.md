@@ -1,4 +1,4 @@
-# Projedo de Fonte de Tensão
+# Projeto de Fonte de Tensão
 Projeto para a disciplina 'SSC0180 – Eletrônica para Computação' ministrada pelo professor Eduardo Simões da USP de São Carlos.
 
 # Objetivo
