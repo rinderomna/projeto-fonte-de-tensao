@@ -2,13 +2,13 @@
 Projeto realizado no primeiro semestre do curso de Bacharelado em Ciências de Computação, para a disciplina '[SSC0180] – Eletrônica para Computação', ministrada pelo professor Eduardo do Valle Simões, da USP de São Carlos.
 
 
-# Alunos - grupo 2
-Danielle Modesti - N° USP: 12543544 ([Dani](https://github.com/danimodesti))
+# Alunos - Grupo 2
 
-Hélio Nogueira Cardoso - N° USP: 10310227 ([Hélio](https://github.com/rinderomna))
-
-Raphael David Phillippe Levéque - N° USP: 12542522 ([Croissant](https://github.com/raphaelleveque))
-
+| **Nome Completo**              | **N°USP**|
+|--------------------------------|----------|
+| [Danielle Modesti](https://github.com/danimodesti)               | 12543544 |
+| [Hélio Nogueira Cardoso](https://github.com/rinderomna)         | 10310227 | 
+| [Raphael David Phillippe Levéque](https://github.com/raphaelleveque)| 12542522 |
 
 # Objetivo
 Projetar uma Fonte de tensão retificadora, ajustável entre 3V e 12V, com capacidade de 100mA.
