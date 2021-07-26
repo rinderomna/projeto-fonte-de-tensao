@@ -3,11 +3,11 @@ Projeto realizado no primeiro semestre do curso de Bacharelado em Ciências de C
 
 
 # Alunos - grupo 2
-Danielle Modesti - No USP: 12543544 ([Dani](https://github.com/danimodesti))
+Danielle Modesti - N° USP: 12543544 ([Dani](https://github.com/danimodesti))
 
-Hélio Nogueira Cardoso - No USP: 10310227 ([Hélio](https://github.com/rinderomna))
+Hélio Nogueira Cardoso - N° USP: 10310227 ([Hélio](https://github.com/rinderomna))
 
-Raphael David Phillippe Levéque - No USP: 12542522 ([Croissant](https://github.com/raphaelleveque))
+Raphael David Phillippe Levéque - N° USP: 12542522 ([Croissant](https://github.com/raphaelleveque))
 
 
 # Objetivo
