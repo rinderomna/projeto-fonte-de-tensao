@@ -31,3 +31,4 @@ Projetar uma Fonte de tensão retificadora, ajustável entre 3V e 12V, com capac
 | 1 | [Resistor 680](https://www.baudaeletronica.com.br/resistor-680r-5-2w.html) |680Ω +/-5%, 2W|R$0,38|
 | 1 | [Resistor 1k](https://www.baudaeletronica.com.br/resistor-1k-5-1w.html) |1000Ω +/-5%, 1W|R$0,18|
 | 1 | [Resistor 3k9](https://www.baudaeletronica.com.br/resistor-3k9-5-2w.html) |3900Ω +/-5%, 2W|R$0,38|
+| Total | | |R$36,18|
