@@ -26,8 +26,8 @@ Projetar uma Fonte de tensão retificadora, ajustável entre 3V e 12V, com capac
 | 1 | [Ponte de diodos](https://www.baudaeletronica.com.br/ponte-retificadora-kbpc1010.html) | Ponte Retificadora KBPC1010 |R$3,67| 
 | 1 | [Capacitor](https://produto.mercadolivre.com.br/MLB-1321275288-kit-com-10-capacitores-eletrolitico-680uf-35v-para-projetos-_JM#position=1&search_layout=grid&type=pad&tracking_id=7cf9df7b-b42e-4aa4-8f1e-8146796ec8d1&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=1&ad_click_id=MjFjYWZiMDktMTQzMi00NTg1LThjYjMtNWQzZWIzZTQ4YmNl) |  a | a  |
 | 1 | [LED](https://www.baudaeletronica.com.br/led-de-alto-brilho-10mm-vermelho.html) |Vermelho 3V - 3,3V 30mA|R$0,70|
+| 1 | [Diodo Zener](https://www.baudaeletronica.com.br/diodo-zener-1n4743-13v-1w.html) |1N4743 [13V / 1W]|R$0,19|
+| 1 | [Potenciômetro](https://www.baudaeletronica.com.br/potenciometro-linear-de-10k-10000.html) |10000Ω|R$0,19|
+| 1 | [Resistor 680](https://www.baudaeletronica.com.br/resistor-680r-5-2w.html) |680Ω +/-5%, 2W|R$0,38|
 | 1 | [Resistor 1k](https://www.baudaeletronica.com.br/resistor-1k-5-1w.html) |1000Ω +/-5%, 1W|R$0,18|
-| 1 | [Resistor 680](https://www.baudaeletronica.com.br/resistor-680r-5-2w.html) | a  |  a |
-| 1 | [Diodo Zener](https://www.baudaeletronica.com.br/diodo-zener-1n4743-13v-1w.html) | a  |  a |
-| 1 | [Potenciômetro](https://www.baudaeletronica.com.br/potenciometro-linear-de-10k-10000.html) | a  |  a |
-| 1 | [Resistor 3k9](https://www.baudaeletronica.com.br/resistor-3k9-5-2w.html) | a  |  a |
+| 1 | [Resistor 3k9](https://www.baudaeletronica.com.br/resistor-3k9-5-2w.html) |3900Ω +/-5%, 2W|R$0,38|
