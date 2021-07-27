@@ -15,7 +15,7 @@ Projetar uma Fonte de tensão retificadora, ajustável entre 3V e 12V, com capac
 
 
 # Diagrama da Fonte
-![Diagrama da fonte no Falstad](imagens/falstad_circuito.PNG "Diagrama da fonte no Falstad")
+![Diagrama da fonte no software Falstad](imagens/falstad_circuito.PNG "Diagrama da fonte no software Falstad")
 
 
 # Escolha de componentes
@@ -33,6 +33,8 @@ Projetar uma Fonte de tensão retificadora, ajustável entre 3V e 12V, com capac
 | 1 | [Resistor 3k9](https://www.baudaeletronica.com.br/resistor-3k9-5-2w.html) |3900Ω +/-5%, 2W|R$0,38|
 | Total | | |R$36,18|
 
+# Projeto esquemático e do PCB no software Eagle
+![Esquema do Eagle](https://github.com/rinderomna/projeto-fonte-de-tensao/blob/main/imagens/eagle_circuito.png "Esquema do Eagle")
 
 
 # Vídeo explicativo
