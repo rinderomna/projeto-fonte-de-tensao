@@ -47,5 +47,5 @@ Projetar uma Fonte de tensão retificadora, ajustável entre 3V e 12V, com capac
 ![Esquema do Eagle](imagens/esquema_3d.jpg "Esquema do Eagle")
 
 
-# Vídeo explicativo
+# Vídeo Explicativo
 Soon.
