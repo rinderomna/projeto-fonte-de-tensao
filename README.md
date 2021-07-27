@@ -49,4 +49,4 @@ Projetar uma fonte de tensão retificadora, ajustável entre 3V e 12V, com capac
 
 
 # Vídeos Explicativos
-[Vídeo explicando cálculos](bit.ly/trabalhofonte)
+[Vídeo explicando cálculos](https://www.youtube.com/watch?v=foXTuA22R3k)
