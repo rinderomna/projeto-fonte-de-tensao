@@ -18,6 +18,7 @@ Projetar uma fonte de tensão retificadora, ajustável entre 3V e 12V, com capac
 # Diagrama da Fonte
 ![Diagrama da fonte no software Falstad](imagens/falstad_circuito.jpg "Diagrama da fonte no software Falstad")
 
+[Link para o circuito no Falstad](https://tinyurl.com/yengesgj)
 
 # Escolha de Componentes
 
