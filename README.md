@@ -12,7 +12,7 @@ Projeto realizado no primeiro semestre do curso de Bacharelado em Ciências de C
 
 
 # Objetivo
-Projetar uma Fonte de tensão retificadora, ajustável entre 3V e 12V, com capacidade de 100mA.
+Projetar uma fonte de tensão retificadora, ajustável entre 3V e 12V, com capacidade de 100mA.
 
 
 # Diagrama da Fonte
